@@ -51,6 +51,7 @@
             // 
             // MainToolBar
             // 
+            this.MainToolBar.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.MainToolBar.Location = new System.Drawing.Point(0, 24);
             this.MainToolBar.Name = "MainToolBar";
             this.MainToolBar.Size = new System.Drawing.Size(800, 25);
